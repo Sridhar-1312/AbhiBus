@@ -21,7 +21,9 @@ a{
     justify-content: center;
     gap: 25px;
     flex-wrap: wrap;
+    
 }
+
 
 .menu_div div {
     display: flex;
